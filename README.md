@@ -7,6 +7,7 @@ In my VSCode Editor, I created the following files for each of the web pages:
 2. about_us.html
 3. events.html
 4. contact_us.html
+   
 Then I added contents into each of the files.
 To stage each of the files, i ran the command "git add <file name>"
 To commit of these changes on each of the files, I ran the command "git commit -m <file name>
